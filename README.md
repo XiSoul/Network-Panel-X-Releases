@@ -13,6 +13,7 @@
 
 | 版本 | 发布日期 | APK |
 |---|---|---|
+| [v1.0.27](../../releases/tag/v1.0.27) | 2026-10-31 | [Network-Panel-X-1.0.27.apk](../../releases/download/v1.0.27/Network-Panel-X-1.0.27.apk) |
 | [v1.0.26](../../releases/tag/v1.0.26) | 2026-10-31 | [Network-Panel-X-1.0.26.apk](../../releases/download/v1.0.26/Network-Panel-X-1.0.26.apk) |
 | [v1.0.25](../../releases/tag/v1.0.25) | 2026-10-31 | [Network-Panel-X-1.0.25.apk](../../releases/download/v1.0.25/Network-Panel-X-1.0.25.apk) |
 | [v1.0.24](../../releases/tag/v1.0.24) | 2026-10-31 | [Network-Panel-X-1.0.24.apk](../../releases/download/v1.0.24/Network-Panel-X-1.0.24.apk) |
@@ -24,7 +25,6 @@
 | [v1.0.18](../../releases/tag/v1.0.18) | 2026-10-15 | [Network-Panel-X-1.0.18.apk](../../releases/download/v1.0.18/Network-Panel-X-1.0.18.apk) |
 | [v1.0.17](../../releases/tag/v1.0.17) | 2026-10-15 | [Network-Panel-X-1.0.17.apk](../../releases/download/v1.0.17/Network-Panel-X-1.0.17.apk) |
 | [v1.0.16](../../releases/tag/v1.0.16) | 2026-10-15 | [Network-Panel-X-1.0.16.apk](../../releases/download/v1.0.16/Network-Panel-X-1.0.16.apk) |
-| [v1.0.15](../../releases/tag/v1.0.15) | 2026-10-15 | [Network-Panel-X-1.0.15.apk](../../releases/download/v1.0.15/Network-Panel-X-1.0.15.apk) |
 
 完整历史版本见 [Releases 页](../../releases)。
 
